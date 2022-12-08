@@ -1,0 +1,12 @@
+div button{
+    width:5rem;
+    height:5rem;
+    background-color:grey;
+    margin:1rem;
+    border-radius:20px;
+}
+
+.container{
+    display:grid;
+    grid-template-columns:repeat(4, 7rem);
+}
